@@ -1,0 +1,14 @@
+//
+//  Config.xcconfig
+//  collection
+//
+//  Created by Michael de Guzman on 12/21/23.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+
+API_URL_SCHEME=https
+API_URL_HOST=api.nasa.gov/planetary/apod?api_key=
+API_KEY=Ch2RlNRXNAMg0m7WWT4YYVZuXOovkL5BzTLr1poW
